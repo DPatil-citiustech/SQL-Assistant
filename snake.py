@@ -6,7 +6,7 @@ width, height = 400, 400
 win = pygame.display.set_mode((width, height))
 clock = pygame.time.Clock()
 
-snake = [(20, 20)]
+snake = [(20, 20
 dx, dy = 20, 0
 food = (100, 100)
 score = 0
